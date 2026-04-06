@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    "embed/**/*.js": false
+  },
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "javascript.validate.enable": true,
+  "search.exclude": {
+    "embed/**": true,
+    "JavaScript/**/*.min.js": true
+  }
+}
